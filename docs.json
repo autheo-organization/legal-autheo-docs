@@ -83,13 +83,23 @@
   },
   "redirects": [
     {
+      "source": "/terms-of-service",
+      "destination": "/legal-agreements/terms-of-service",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy",
+      "destination": "/legal-agreements/privacy-policy",
+      "permanent": true
+    },
+    {
       "source": "/agreements/terms-of-service",
-      "destination": "/terms-of-service",
+      "destination": "/legal-agreements/terms-of-service",
       "permanent": true
     },
     {
       "source": "/agreements/privacy-policy",
-      "destination": "/privacy-policy",
+      "destination": "/legal-agreements/privacy-policy",
       "permanent": true
     }
   ]

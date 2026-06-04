@@ -80,5 +80,17 @@
       "discord": "https://discord.gg/McEEeXGGya",
       "telegram": "https://t.me/autheo/1"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/agreements/terms-of-service",
+      "destination": "/terms-of-service",
+      "permanent": true
+    },
+    {
+      "source": "/agreements/privacy-policy",
+      "destination": "/privacy-policy",
+      "permanent": true
+    }
+  ]
 }

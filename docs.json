@@ -82,6 +82,16 @@
   },
   "redirects": [
     {
+      "source": "/autheo-validator-node-purchase-license-agreement-v1-0",
+      "destination": "/node-sale-purchase/license-agreement",
+      "permanent": true
+    },
+    {
+      "source": "/supporting-site-policies-v1-0",
+      "destination": "/node-sale-purchase/license-agreement",
+      "permanent": true
+    },
+    {
       "source": "/terms-of-service",
       "destination": "/legal-agreements/terms-of-service",
       "permanent": true

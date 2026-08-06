@@ -40,6 +40,12 @@
           "node-sale-purchase/exhibit-f",
           "node-sale-purchase/exhibit-g"
         ]
+      },
+      {
+        "group": "Token information",
+        "pages": [
+          "token-information/theo-token-information"
+        ]
       }
     ]
   },
